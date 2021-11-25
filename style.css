@@ -1,0 +1,227 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden ;
+}
+
+header{
+    background-color: rgb(80, 179, 212);
+    color: white;
+    height: 5vh;
+    font-size: 25px;
+    font-family: 'Baloo Bhai 2', cursive;
+    padding: 20px;
+
+}
+
+#logo{
+    float: left;
+    
+}
+
+#learn{
+    background-color: white;
+    color: rgb(80, 179, 212);
+    border-radius: 65px;
+    padding: 2px 20px 3px 20px;
+}
+
+li{
+    display: inline;
+    list-style: none;
+    position: relative;
+    left: 57vw;
+    padding: 8px;
+}
+
+.container{
+    background-color: rgb(80, 179, 212);
+    color: white;
+    height: 70vh;
+    padding-top: 50px;
+    font-size: 3vw;
+    font-family: 'Baloo Bhai 2', cursive;
+    text-align: center;
+    text-transform: full-width;    
+}
+
+.container2{
+    height: 50vh;
+    display: flex;
+}
+
+.box1{
+    height: 100%;
+    width: 50vw;
+}
+
+.box2{
+    background-image: url("img/Egg.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 50vw;
+}
+
+.h2{
+    padding: 70px 150px 20px 150px;
+}
+
+.p{
+    padding: 0px 140px 20px 150px;
+}
+
+.container3{
+    height: 50vh;
+    display: flex;
+}
+
+.box3{
+    background-image: url("img/Glass1.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 50vw;
+}
+
+.box4{
+    height: 100%;
+    width: 50vw;
+}
+
+.container4{
+    height: 50vh;
+    display: flex;
+}
+
+.box5{
+    background-image: url("img/Cherry.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 50vw;
+}
+
+.box6{
+    background-image: url("img/Orange1.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 50vw;
+}
+
+.h3{
+    text-align: center;
+    padding-top: 200px;
+}
+
+.p1{
+    text-align: center;
+    padding: 20px 177px 7px 177px;
+}
+
+.container5{
+    height: 10vh;
+    text-align: center;
+    margin-top: 140px;
+}
+
+.container5>b{
+    font-size: 22px;
+}
+
+#teamhead{
+    font-size: 35px;
+}
+
+.container6{
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    
+}
+
+.card1,.card2,.card3{
+    width: 25vw;
+    height: 50vh;
+    text-align: center;
+    margin: 5px 60px;
+}
+
+.prof1{
+    margin: 40px 125px 50px 125px;
+    border-radius: 40px;
+    vertical-align: middle;
+    height: 70px;
+    width: 70px;
+}
+
+.teamname{
+    padding-top: 10px;
+}
+
+.container7{
+    padding-top: 100px;
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+}
+
+.img1{
+    background-image: url("img/Cherry.jpg");
+    background-size: cover;
+    width: 25vw;
+    height: 50vh;
+}
+
+.img2{
+    background-image: url("img/Egg.jpg");
+    background-size: cover;
+    width: 25vw;
+    height: 50vh;
+}
+
+.img3{
+    background-image: url("img/Glass1.jpg");
+    background-size: cover;
+    width: 25vw;
+    height: 50vh;
+}
+
+.img4{
+    background-image: url("img/Orange.jpg");
+    background-size: cover;
+    width: 25vw;
+    height: 50vh;
+}
+
+footer{
+    height: 40vh;
+    background-color: rgb(94, 206, 140);
+    color: rgb(24, 126, 66);
+}
+
+#logo2{
+    font-size: 28px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.last{
+    color: rgb(24, 126, 66);
+    display: flex;
+}
+
+.smedia{
+    padding-left: 550px;
+}
+
+.smedia1{
+   padding-left: 30px;
+}
+
+.last2{
+    text-transform: full-width;
+    text-align: center;
+    padding-top: 50px;
+}
